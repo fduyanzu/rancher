@@ -1,0 +1,9 @@
+name: wordPress
+description: |
+  test app
+version: 1.0.0-rancher1
+category: Clustering
+maintainer: "yanzu"
+minimum_rancher_version: v0.59.0
+license: 
+projectURL: https://github.com/fduyanzu/rancher
