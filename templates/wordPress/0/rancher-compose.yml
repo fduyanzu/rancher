@@ -2,8 +2,6 @@ version: '2'
 .catalog:
   name: wordPress
   version: v1.0.0
-  description: |
-    (Experimental) Apache Kafka cluster.
 services:
   wordpress:
     scale: 3
