@@ -3,7 +3,3 @@ description: |
   test app
 version: v1.0.0
 category: Clustering
-maintainer: "yanzu"
-minimum_rancher_version: v0.59.0
-license: 
-projectURL: https://github.com/fduyanzu/rancher
